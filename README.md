@@ -1,2 +1,3 @@
-# js1k-magic
-JS1K 2017 entry
+### js1k magic
+
+js1k 2017 entry
